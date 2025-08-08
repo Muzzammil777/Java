@@ -21,7 +21,5 @@ public class array_addition {
        }
        
         System.out.print(e+" "+o);
-       
-
     }
 }
