@@ -12,5 +12,6 @@ public class q16{
         } else {
             System.out.println("The number " + a + " is less than " + b);
         }
+        sc.close();
     }
 }

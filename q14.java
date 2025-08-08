@@ -6,7 +6,7 @@ public class q14{
 
         int num = sc.nextInt();
 
-        if((num%3==0)&& if(num%5==0)){
+        if((num%3==0)&&(num%5==0)){
             
             System.out.println("The number " + num + " is divisible by 3 and 5");
             }

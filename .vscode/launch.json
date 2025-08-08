@@ -1,0 +1,413 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "q1",
+            "request": "launch",
+            "mainClass": "q1",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q10",
+            "request": "launch",
+            "mainClass": "q10",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q11",
+            "request": "launch",
+            "mainClass": "q11",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q12",
+            "request": "launch",
+            "mainClass": "q12",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q13",
+            "request": "launch",
+            "mainClass": "q13",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q14",
+            "request": "launch",
+            "mainClass": "q14",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q15",
+            "request": "launch",
+            "mainClass": "q15",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q16",
+            "request": "launch",
+            "mainClass": "q16",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q17",
+            "request": "launch",
+            "mainClass": "q17",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q18",
+            "request": "launch",
+            "mainClass": "q18",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q19",
+            "request": "launch",
+            "mainClass": "q19",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q2",
+            "request": "launch",
+            "mainClass": "q2",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q20",
+            "request": "launch",
+            "mainClass": "q20",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q21",
+            "request": "launch",
+            "mainClass": "q21",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q22",
+            "request": "launch",
+            "mainClass": "q22",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q23",
+            "request": "launch",
+            "mainClass": "q23",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q24",
+            "request": "launch",
+            "mainClass": "q24",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q25",
+            "request": "launch",
+            "mainClass": "q25",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q26",
+            "request": "launch",
+            "mainClass": "q26",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q27",
+            "request": "launch",
+            "mainClass": "q27",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q28",
+            "request": "launch",
+            "mainClass": "q28",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q29",
+            "request": "launch",
+            "mainClass": "q29",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q3",
+            "request": "launch",
+            "mainClass": "q3",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q35",
+            "request": "launch",
+            "mainClass": "q35",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q36",
+            "request": "launch",
+            "mainClass": "q36",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q37",
+            "request": "launch",
+            "mainClass": "q37",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q38",
+            "request": "launch",
+            "mainClass": "q38",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q39",
+            "request": "launch",
+            "mainClass": "q39",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q4",
+            "request": "launch",
+            "mainClass": "q4",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q40",
+            "request": "launch",
+            "mainClass": "q40",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q41",
+            "request": "launch",
+            "mainClass": "q41",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q42",
+            "request": "launch",
+            "mainClass": "q42",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q43",
+            "request": "launch",
+            "mainClass": "q43",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q44",
+            "request": "launch",
+            "mainClass": "q44",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q45",
+            "request": "launch",
+            "mainClass": "q45",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q46",
+            "request": "launch",
+            "mainClass": "q46",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q47",
+            "request": "launch",
+            "mainClass": "q47",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q48",
+            "request": "launch",
+            "mainClass": "q48",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q49",
+            "request": "launch",
+            "mainClass": "q49",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q5",
+            "request": "launch",
+            "mainClass": "q5",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q50",
+            "request": "launch",
+            "mainClass": "q50",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q51",
+            "request": "launch",
+            "mainClass": "q51",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q52",
+            "request": "launch",
+            "mainClass": "q52",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q53",
+            "request": "launch",
+            "mainClass": "q53",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q54",
+            "request": "launch",
+            "mainClass": "q54",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q55",
+            "request": "launch",
+            "mainClass": "q55",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q56",
+            "request": "launch",
+            "mainClass": "q56",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q57",
+            "request": "launch",
+            "mainClass": "q57",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q59",
+            "request": "launch",
+            "mainClass": "q59",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q6",
+            "request": "launch",
+            "mainClass": "q6",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q60",
+            "request": "launch",
+            "mainClass": "q60",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q61",
+            "request": "launch",
+            "mainClass": "q61",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q62",
+            "request": "launch",
+            "mainClass": "q62",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q63",
+            "request": "launch",
+            "mainClass": "q63",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q64",
+            "request": "launch",
+            "mainClass": "q64",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q7",
+            "request": "launch",
+            "mainClass": "q7",
+            "projectName": "Java_c3da2159"
+        },
+        {
+            "type": "java",
+            "name": "q8",
+            "request": "launch",
+            "mainClass": "q8",
+            "projectName": "Java_c3da2159"
+        }
+    ]
+}

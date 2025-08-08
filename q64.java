@@ -16,14 +16,13 @@ public class q64
 
 		int c=0;
 
-		
+		int fact=1;
 
 		int temp=n;
 
 		while(n!=0) {
 
 		    int b=n%10;
-            int fact;
 		    int p=0;
 
 		    for(int i=1;i<=c;i++) {
