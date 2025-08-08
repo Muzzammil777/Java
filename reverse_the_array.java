@@ -12,10 +12,13 @@ public class reverse_the_array {
         }
 
        for(int i=0;i<n/2;i++){
-
-        
+            int c = a[i];
+            a[i]=a[n-i-1];
+            a[n-i-1]=c;
        }
-
+       for(int i:a){
+        System.out.print(i+" ");
+       }
 
 
     }  
