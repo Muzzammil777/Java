@@ -11,9 +11,10 @@ public class reverse_the_array {
             a[i] = sc.nextInt();
         }
 
-        for(int i=n;i>1;i--){
-            System.out.print(a[i] + " ");
-        }
+       for(int i=0;i<n/2;i++){
+
+        
+       }
 
 
 
