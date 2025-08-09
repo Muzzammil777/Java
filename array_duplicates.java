@@ -8,7 +8,9 @@ public class array_duplicates
         int n = sc.nextInt();
         int a[] = new int[n];
         int b[] = new int[n];
-        int c=0;
+        int c[] = new int[n];
+
+        int d=0;
 
         for(int i=0;i<n;i++){
             a[i] = sc.nextInt();
@@ -18,14 +20,16 @@ public class array_duplicates
             for(int j=i+1;j<n;j++){
                 if(a[i]==a[j])
                 {
-                 b[i] = a[i];         
+                 b[i] = a[i];
+                        
                 }
             }
         }
         for(int i : b){
             if(i!=0)
+            {
              System.out.print(i+ " ");
         }
-        
+    }
     }
 }
