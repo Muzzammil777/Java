@@ -6,6 +6,10 @@ public class PowerCalculation
         int n = sc.nextInt();
         int p = sc.nextInt();
 
-        
+        int power = 1;
+        for (int i = 0; i < p; i++) {
+            power *= n;
+        }
+        System.out.println(power);
     }
 }
