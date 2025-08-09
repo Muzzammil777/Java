@@ -16,18 +16,18 @@ public class array_added_odd_printing {
         for(int i=0;i<n;i++){
             if(a[i]%2!=0){
                 tf = true;
-            }}
-            if(n%2==0){
-            for(int i=0;i<n;i++){
-            for(int j=1;j<n;j++){
-                sum[i] = a[i]+a[j];
-            }}
+            }
         }
- 
         if(tf){
             System.out.println("Invalid");
+        } else if(n%2==0){
+            for(int i=0, j=0;i<n;i+=2, j++){
+                sum[j] = a[i]+a[i+1];
+            }
+            for(int i:sum){
+                System.out.println(i +" ");
+            }
+        } else {
+            System.out.println("Array length must be even.");
         }
-        for(int i=0;i<n/2;i++){
-        System.out.print(sum[i]);
-}
 }}
